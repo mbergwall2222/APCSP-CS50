@@ -366,3 +366,12 @@ nano .gitignore
 git status
 git add .gitignore
 git status
+git add .
+git commit -m "test"
+git push origin master
+ssh -T git@github.com
+git config --local -e
+git remote set-url origin https://github.com/mbergwall2222/APCSP-CS50.git
+git push origin master
+nano .gitignore
+git status
