@@ -324,3 +324,45 @@ cd ..
 ls
 cd init
 git init
+git add .
+git commit -m "first commit"
+git config --global user.email "mbergwall2222@users.noreply.github.com"
+git config --global user.name "Matt Bergwall"
+git commit -m "first commit"
+git remote add origin git@github.com:mbergwall2222/APCSP-CS50.git
+git push -u origin master
+cd chapter2
+ls
+cd ..
+cd chapter3
+ls
+cd fifteen/
+ls
+make
+make
+make
+./fifteen 
+./fifteen 5
+./fifteen 2
+./fifteen 3
+check50 cs50/problems/2019/ap/fifteen
+style50 fifteen.c
+style50 fifteen.c
+style50 fifteen.c
+style50 fifteen.c
+style50 fifteen.c
+style50 fifteen.c
+atyle
+astyle
+submit50 cs50/problems/2019/ap/fifteen
+sudo yum -y update      # Install the latest system updates.
+apt
+sudo apt install git
+git status
+cd ..
+cd ..
+git status
+nano .gitignore
+git status
+git add .gitignore
+git status
